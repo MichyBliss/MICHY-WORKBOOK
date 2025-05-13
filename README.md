@@ -1,2 +1,2 @@
 # MICHY-WORKBOOK
-"This notebook explores [ 'predictive modeling for a care sales data set using, pandas, NumPy. It covers data cleaning, exploratory data analysis (EDA), model training, and evaluation."
+"This notebook explores a predictive modeling for a care sales data set using, pandas, NumPy, seaborn and matblitploit. It covers data cleaning, exploratory data analysis (EDA). 
